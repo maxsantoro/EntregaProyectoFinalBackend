@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header><%- include('./partials/header') %></header>
+    <main>
+      <h1>Formulario de ingreso de productos</h1>
+      <form action="/productos" method="post">
+        <h5>Producto:</h5>
+        <input type="text" , placeholder="Producto" , name="name" />
+        <h5>Precio:</h5>
+        <input type="text" , placeholder="Precio" , name="price" />
+        <h5>Thumbnail:</h5>
+        <input
+          type="text"
+          ,
+          placeholder="Ruta a imagen del producto"
+          ,
+          name="thumbnail"
+        />
+        <br />
+        <button type="submit">Enviar</button>
+      </form>
+      <% products.forEach((prods) => { %>
+      <p>
+        <%= `Producto: ${prods.name}, Precio: ${prods.price}, ID: ${prods.id}`
+        %>
+      </p>
+      <% }) %>
+    </main>
+  </body>
+  <footer><%- include('./partials/footer') %></footer>
+</html>

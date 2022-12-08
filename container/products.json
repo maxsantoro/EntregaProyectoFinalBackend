@@ -1,0 +1,26 @@
+[
+  {
+    "name": "remera",
+    "price": 3500,
+    "thumbnail": "http",
+    "id": 1
+  },
+  {
+    "name": "camisa",
+    "price": 8000,
+    "thumbnail": "http",
+    "id": 2
+  },
+  {
+    "name": "chomba",
+    "price": 10000,
+    "thumbnail": "http",
+    "id": 3
+  },
+  {
+    "name": "bermuda",
+    "price": 8000,
+    "thumbnail": "http",
+    "id": 3
+  }
+]

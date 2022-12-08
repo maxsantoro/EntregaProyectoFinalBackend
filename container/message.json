@@ -1,0 +1,65 @@
+[
+  {
+    "id": "4mzkTymwSFE4ZwxmAAAF",
+    "autor": "maxi.santoro@gmail.com",
+    "mensaje": "Hola ",
+    "fecha": "4-12-2022",
+    "hora": "0:9"
+  },
+  {
+    "id": "uKdz1q-L7c0F0PxkAAAD",
+    "autor": "lilo.orlanidni@gmail.com",
+    "mensaje": "Que tal",
+    "fecha": "4-12-2022",
+    "hora": "0:10"
+  },
+  {
+    "autor": "lisandro@gmail.com",
+    "mensaje": "Bien",
+    "fecha": "4-12-2022",
+    "hora": "0:46",
+    "id": 3
+  },
+  {
+    "autor": "agustinbatres@gmail.com",
+    "mensaje": "Asi es",
+    "fecha": "4-12-2022",
+    "hora": "0:46",
+    "id": 4
+  },
+  {
+    "id": "dnJD8YpPDfbndBWDAAAD",
+    "autor": "bruuno@gmail.com",
+    "mensaje": "Que hacemos",
+    "fecha": "4-12-2022",
+    "hora": "0:47"
+  },
+  {
+    "id": "dnJD8YpPDfbndBWDAAAD",
+    "autor": "pika@gmail.com",
+    "mensaje": "asdasdasd",
+    "fecha": "4-12-2022",
+    "hora": "0:47"
+  },
+  {
+    "id": "dnJD8YpPDfbndBWDAAAD",
+    "autor": "ema@gmail.com",
+    "mensaje": "Data",
+    "fecha": "4-12-2022",
+    "hora": "0:48"
+  },
+  {
+    "id": "dnJD8YpPDfbndBWDAAAD",
+    "autor": "yoel@gmail.com",
+    "mensaje": "Tarde",
+    "fecha": "4-12-2022",
+    "hora": "0:48"
+  },
+  {
+    "id": "jTzqnpUPwzs4vGFmAAAB",
+    "autor": "maxi.santoro@hotmail.com",
+    "mensaje": "hola",
+    "fecha": "8-12-2022",
+    "hora": "20:45"
+  }
+]
